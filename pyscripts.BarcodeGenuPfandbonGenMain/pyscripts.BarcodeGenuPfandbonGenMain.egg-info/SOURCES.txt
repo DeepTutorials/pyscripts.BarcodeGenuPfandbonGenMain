@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-pyscripts.BarcodeGenuPfandbonGenMain.egg-info/PKG-INFO
-pyscripts.BarcodeGenuPfandbonGenMain.egg-info/SOURCES.txt
-pyscripts.BarcodeGenuPfandbonGenMain.egg-info/dependency_links.txt
-pyscripts.BarcodeGenuPfandbonGenMain.egg-info/entry_points.txt
-pyscripts.BarcodeGenuPfandbonGenMain.egg-info/requires.txt
-pyscripts.BarcodeGenuPfandbonGenMain.egg-info/top_level.txt
